@@ -96,5 +96,3 @@ app.post('/student/login', function (req, res) {
     ])
   }
 })
-
-module.exports = app
