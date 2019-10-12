@@ -55,7 +55,6 @@ app.post('/student/login', function (req, res) {
           if (results.length > 0) {
             error.push('You have a debt in your account')
           }
-          // res.send({ error: true, message: results })
         })
       },
       function () {
