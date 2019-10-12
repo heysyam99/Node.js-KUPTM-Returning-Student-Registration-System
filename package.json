@@ -1,0 +1,19 @@
+{
+  "name": "node.js-kuptm-returning-student-registration-system",
+  "version": "1.0.0",
+  "description": "This is the Node.js API of KUPTM Returning Student Registration System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System.git"
+  },
+  "author": "Mohamad Hisyam Syazani Bin Othman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System/issues"
+  },
+  "homepage": "https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System#readme"
+}
