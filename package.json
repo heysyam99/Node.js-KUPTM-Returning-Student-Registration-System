@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System/issues"
   },
-  "homepage": "https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System#readme"
+  "homepage": "https://github.com/heysyam99/Node.js-KUPTM-Returning-Student-Registration-System#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
 }
